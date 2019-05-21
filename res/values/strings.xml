@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tespkl</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nama">Username or Email</string>
+    <string name="pwd">Password</string>
+    <string name="btn1">Sign In</string>
+	<string name="signin">SIGN IN</string>
+	<string name="akun">Do not have an account? Register</string>
+	<string name="home">Home</string>
+	<string name="button">Button</string>
+	<string name="politic">POLITICS OF LIVING</string>
+	<string name="singer">Kodaline</string>
+</resources>
